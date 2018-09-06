@@ -1,0 +1,11 @@
+C:\Users\youri\OneDrive\Documents\Dojo\c#\cards\obj\Debug\netcoreapp2.0\cards.csprojResolveAssemblyReference.cache
+C:\Users\youri\OneDrive\Documents\Dojo\c#\cards\obj\Debug\netcoreapp2.0\cards.csproj.CoreCompileInputs.cache
+C:\Users\youri\OneDrive\Documents\Dojo\c#\cards\obj\Debug\netcoreapp2.0\cards.AssemblyInfoInputs.cache
+C:\Users\youri\OneDrive\Documents\Dojo\c#\cards\obj\Debug\netcoreapp2.0\cards.AssemblyInfo.cs
+C:\Users\youri\OneDrive\Documents\Dojo\c#\cards\bin\Debug\netcoreapp2.0\cards.deps.json
+C:\Users\youri\OneDrive\Documents\Dojo\c#\cards\bin\Debug\netcoreapp2.0\cards.runtimeconfig.json
+C:\Users\youri\OneDrive\Documents\Dojo\c#\cards\bin\Debug\netcoreapp2.0\cards.runtimeconfig.dev.json
+C:\Users\youri\OneDrive\Documents\Dojo\c#\cards\bin\Debug\netcoreapp2.0\cards.dll
+C:\Users\youri\OneDrive\Documents\Dojo\c#\cards\bin\Debug\netcoreapp2.0\cards.pdb
+C:\Users\youri\OneDrive\Documents\Dojo\c#\cards\obj\Debug\netcoreapp2.0\cards.dll
+C:\Users\youri\OneDrive\Documents\Dojo\c#\cards\obj\Debug\netcoreapp2.0\cards.pdb
